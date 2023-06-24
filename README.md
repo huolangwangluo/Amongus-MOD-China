@@ -35,7 +35,7 @@
   - [28.TownOfThem](#28townofthem)
   - [29.StellarRoles](#29StellarRoles)
   - [30.MoreGamemodes](#MoreGamemodes)
-  - [31.TownOfHostEdited-XI](#31TownOfHostEdited-XI)
+  - [31.TOHEX](#31TOHEX)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -568,8 +568,8 @@ Among Us支持版本：2022.12.14
 [GitHub仓库(点这)](https://github.com/Rabek009/MoreGamemodes)
 
 ## 31.TownOfHostEdited-XI
-![image](https://github.com/Xieiawa/TownOfHostEdited-XI/blob/TOHE/Resources/Images/TOHE-BG.jpg)
-[Github仓库(点这)](https://github.com/Xieiawa/TownOfHostEdited-XI)
+![image](https://gitee.com/xigua_ya/tohex/raw/TOHE/Resources/Images/TOHE-BG.jpg)
+[Giee仓库(点这)](https://gitee.com/xigua_ya/tohex)
 
 # 旧模组
 
