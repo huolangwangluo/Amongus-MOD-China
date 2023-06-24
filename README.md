@@ -567,7 +567,7 @@ Among Us支持版本：2022.12.14
 ## 30.MoreGamemodes
 [GitHub仓库(点这)](https://github.com/Rabek009/MoreGamemodes)
 
-## 31.TownOfHostEdited-XI
+## 31.TOHEX
 ![image](https://gitee.com/xigua_ya/tohex/raw/TOHE/Resources/Images/TOHE-BG.jpg)
 [Giee仓库(点这)](https://gitee.com/xigua_ya/tohex)
 
